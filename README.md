@@ -8,6 +8,8 @@
 
 Welcome to **Glorified-Panel**, a cross-platform, blazing-fast server monitoring and management application built using Tauri, React, and Rust. Designed for high performance and efficiency, Glorified-Panel provides comprehensive tools to manage and monitor your server's files, logs, and general status, including RAM usage, disk usage, and more.
 
+## I made gpt write this so, it's not that it's wrong but the MAIN goal of my app is to put SECURITY of the server first in every action, being blazing fast, cross platform etc comes second.
+
 ## Features
 
 - **Cross-Platform Compatibility**: Runs seamlessly on Windows, macOS, and Linux.
