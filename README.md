@@ -2,7 +2,7 @@
 # I am developing this project to have a higher efficieny with my everyday server management and monitoring tasks. Front-end of the software is still hasn't even started it's babysteps but-
 # I am focusing more on the Rust background part as of now, since I'm a solo dev this will take some time yet I created this repo for tracking my own progress and every bit of help is welcome.
 
-![Glorified-Panel](barebones.png)
+![Glorified-Panel](/barebones/barebones.png)
 
 ## Introduction
 
@@ -22,10 +22,10 @@ Welcome to **Glorified-Panel**, a cross-platform, blazing-fast server monitoring
 ## Screenshots
 
 ### Barebones Interface
-![Barebones Interface](barebones.png)
+![Barebones Interface](/barebones/barebones.png)
 
 ### Logs Management
-![Logs Management](logs.png)
+![Logs Management](/barebones/logs.png)
 
 ## Installation
 
