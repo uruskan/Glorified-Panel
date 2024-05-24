@@ -1,0 +1,38 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Set default font and color */
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Add some basic styling to headings */
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 1rem;
+}
+
+/* Add some spacing between paragraphs */
+p {
+    margin-bottom: 1rem;
+}
+
+/* Add a border to images */
+img {
+    border: 1px solid #ccc;
+}
+
+/* Add some basic styling to links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Add hover effect to links */
+a:hover {
+    text-decoration: underline;
+}

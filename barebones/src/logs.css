@@ -1,0 +1,30 @@
+/* logs.css */
+.logs-container {
+  display: flex;
+  height: 100vh;
+  flex-direction: row;
+}
+
+.logs-content {
+  flex: 1;
+  padding: 20px;
+  margin-left: 15vw;
+  max-width: 100vw;
+  max-height: 100%;
+  overflow: scroll;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 20px;
+}
+
+/* Adjust grid-item styles as needed */
+.grid-item {
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
